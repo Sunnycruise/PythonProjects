@@ -1,0 +1,40 @@
+{
+  "product_name": "Tire Shine Spray",
+  "product_status": "In stock",
+  "product_price": 14.99,
+  "effective_price_start_date": "2023-08-10T00:00:00",
+  "effective_price_end_date": "2023-09-02T00:00:00",
+  "quantity": 85,
+  "product_details": {
+    "product_category": "Automotive",
+    "supplier_details": {
+      "supplier": [
+        {
+          "id": 174,
+          "name": "TRW"
+        },
+        {
+          "id": 181,
+          "name": "Bosch"
+        }
+      ]
+    }
+  },
+  "created_date": 1674216185,
+  "updated_date": "2022-11-15",
+  "updated_time": 63789,
+  "product_history": {
+    "product_price_history": [
+      {
+        "price": 10.99,
+        "start_date": "2022-06-16T15:23:59.106",
+        "end_date": "2023-07-31T15:23:59.106"
+      },
+      {
+        "price": 14.99,
+        "start_date": "2023-08-01T15:23:59.106",
+        "end_date": "2023-12-31T15:23:59.106"
+      }
+    ]
+  }
+}
